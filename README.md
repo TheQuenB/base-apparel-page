@@ -1,2 +1,4 @@
 # base-apparel-page
-Frontend Mentor challenge
+Frontend Mentor challenge utlizing HTML, CSS and JS
+
+
