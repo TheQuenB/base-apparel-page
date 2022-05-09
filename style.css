@@ -1,0 +1,40 @@
+body{
+  background-color: ;
+  font-size: 16px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.images{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.baseLogo{
+  align-self: flex-start;
+  margin-bottom: 35px;
+  
+}
+
+.mobileImage{
+align-self: center; 
+}
+
+.cta{
+  text-align: center;
+  margin-bottom: 35px;
+  
+}
+
+h1{
+  font-size: 66px;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+.subscribe{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
